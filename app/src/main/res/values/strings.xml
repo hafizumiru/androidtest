@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Geo Quiz</string>
+    <string name="next_button">Next</string>
+
+    <string name="question_1">"State capital of Indonesia is Indonesia"</string>
+    <string name="question_2">"The first President of Indonesia is Soeharno"</string>
+    <string name="question_3">"Humans breathe with Lungs"</string>
+    <string name="question_4">"The largest continent in the worldis Afrika"</string>
+    <string name="question_5">"Indonesia located in the continent of Asia"</string>
+
+    <string name="previous_button">Previous</string>
+</resources>
